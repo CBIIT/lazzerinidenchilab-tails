@@ -1,7 +1,7 @@
 # lazzerinidenchilab-tails
 ### General Information
 
-[![DOI](https://zenodo.org/badge/492982501.svg)](https://doi.org/10.5281/zenodo.7829551)
+[![DOI](https://zenodo.org/badge/896101377.svg)](https://doi.org/10.5281/zenodo.14262198)
 
 This is a repo containing the R code used to generate the manuscript from the Lazzerini Denchi Lab at the National Cancer Institute/NIH. The preprint describes the imaging-based TAILS screen for identifying novel regulators of the Alternative Lengthening of Telomeres (ALT) pathway. The R code heavily uses the [cellHTS2 package](https://bioconductor.riken.jp/packages/3.13/bioc/html/cellHTS2.html).
 
